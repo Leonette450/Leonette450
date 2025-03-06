@@ -1,0 +1,16 @@
+.header{
+    padding: 50px 0;
+    background-color: #fff;
+}
+.section-class{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+.customized-portfolio{
+    display: block;
+    font-size: 1.8em;
+    color: #6c757d;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
